@@ -18,3 +18,9 @@ git push -u origin master<BR/>
 
 git remote add origin https://github.com/1ynk/curso3way.git<BR/>
 git push -u origin master<BR/>
+
+
+para subir
+git status
+git add . (espaço depois do add)
+git commit -m "qq coisa"
