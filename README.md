@@ -24,3 +24,4 @@ para subir
 git status
 git add . (espaço depois do add)
 git commit -m "qq coisa"
+git push
